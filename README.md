@@ -1,0 +1,1 @@
+Para ejecutar los ejemplos de nuestro algoritmo hay que fijarse en la ruta del archivo "cora.cites", deberia funcionar bien si esta en la misma carpeta.
